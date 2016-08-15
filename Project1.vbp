@@ -1,9 +1,8 @@
 Type=Exe
-Form=..\..\..\Program Files\Microsoft Visual Studio\VB98\Form1.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\WINDOWS\SYSTEM\stdole2.tlb#OLE Automation
-Class=MemoryManager; ..\..\..\Program Files\Microsoft Visual Studio\VB98\Class1.cls
-IconForm="Form1"
-Startup="Form1"
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\SYSTEM\stdole2.tlb#OLE Automation
+Form=Form1.frm
+Class=MemoryManager; Class1.cls
+Startup="Sub Main"
 Command32=""
 Name="Project1"
 HelpContextID="0"

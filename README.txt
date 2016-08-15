@@ -1,3 +1,5 @@
-Some examples of working cheat trainers in Windows 98 - Windows ME
+Built with Visual Basic 6.0 for legacy game support on Windows 95 and above operating systems.
 
-Uses .NET framework v2.0
+If you are using anything above Windows XP, you will need the runtime files.
+
+https://sourceforge.net/projects/vb6extendedruntime/
